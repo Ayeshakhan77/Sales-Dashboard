@@ -1,2 +1,4 @@
 # Sales-Dashboard
-image/overview.png
+<p align="center">
+  <img src="./overview.png" alt="Preview Image" width="600"/>
+</p>
